@@ -80,4 +80,4 @@ Memiliki tampilan intuitif, efek visual interaktif, dan kontrol mudah digunakan.
 ## 🚀 Cara Menjalankan
 1. Clone repo:
    ```bash
-   git clone https://github.com/username/timer-catur.git
+   https://abdussalam090207.github.io/time-catur/
