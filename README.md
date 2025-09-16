@@ -73,7 +73,7 @@ Memiliki tampilan intuitif, efek visual interaktif, dan kontrol mudah digunakan.
 ---
 
 ## 📸 Preview
-![Preview Login Page](./screenshot.png)
+![Preview Login Page](./Screenshot.png)
 
 ---
 
